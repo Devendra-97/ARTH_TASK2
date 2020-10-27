@@ -1,0 +1,133 @@
+Article Link:   https://www.linkedin.com/pulse/why-aws-so-successful-stories-companies-got-from-devendra-bhadauria
+
+
+
+Some Glimpse of my Article
+Going further to discuss aws case study first we will understand the basic concept of cloud computing.
+
+What is Cloud Computing?
+
+
+No alt text provided for this image
+The company that provides their resources over the internet and charges according to the pay-as-you-go model, this type of company are called as a service provider or Cloud Company. This practice is called cloud computing.
+
+How does cloud computing work?
+
+Rather than owning their own computing infrastructure or data centers, companies can rent access to anything from applications to storage from a cloud service provider.
+
+One benefit of using cloud computing services is that firms can avoid the upfront cost and complexity of owning and maintaining their own IT infrastructure, and instead simply pay for what they use when they use it.
+
+In turn, providers of cloud computing services can benefit from significant economies of scale by delivering the same services to a wide range of customers.
+
+What cloud computing services are available?
+
+Cloud computing services cover a vast range of options now, from the basics of storage, networking, and processing power through to natural language processing and artificial intelligence as well as standard office applications. Pretty much any service that doesn't require you to be physically close to the computer hardware that you are using can now be delivered via the cloud.
+
+What are examples of cloud computing?
+
+Cloud computing underpins a vast number of services. That includes consumer services like Gmail or the cloud back-up of the photos on your smartphone, though to the services which allow large enterprises to host all their data and run all of their applications in the cloud. Netflix relies on cloud computing services to run its video streaming service and its other business systems too and has a number of other organizations.
+
+Cloud computing is becoming the default option for many apps: software vendors are increasingly offering their applications as services over the internet rather than standalone products as they try to switch to a subscription model. However, there is a potential downside to cloud computing, in that it can also introduce new costs and new risks for companies using it.
+
+There are lots of companies that provide cloud computing services but AWS is the best. Why?
+No alt text provided for this image
+Now here comes the case study of aws
+AWS is made up of so many different cloud computing products and services. The highly profitable Amazon division provides servers, storage, networking, remote computing, email, mobile development, and security. AWS can be broken into three main products: EC2, Amazon’s virtual machine service, Glacier, a low-cost cloud storage service, and S3, Amazon’s storage system. AWS is so large and present in the computing world that it's far outpaced its competitors. As of February 2020, one independent analyst reports AWS has over a third of the market at 32.4%, with Azure following behind at half that amount 17.6%, and Google Cloud at 6%.
+
+AWS has 76 availability zones in which its servers are located. These serviced regions are divided in order to allow users to set geographical limits on their services (if they so choose), but also to provide security by diversifying the physical locations in which data is held. Overall, AWS spans 245 countries and territories.
+
+As the lead cloud computing platform, Amazon Web Services (AWS) is the primary profit driver for Amazon.
+In 2020, AWS broke the record of being a $10 billion business.
+Amazon controls more than a third of the cloud market, almost twice its next closest competitor.
+Cost Savings
+
+Traditionally, companies looking for large amounts of storage would need to physically build a storage space and maintain it. Storing on a cloud could mean signing a pricey contract for a large amount of storage space that the company could "grow into". Building or buying too little storage could be disastrous if the business took off and expensive if it didn’t.
+
+The same applies to compute power. Companies that experience surge traffic would traditionally end up buying loads of power to sustain their business during peak times. On off-peak times—May for tax accountants for example—computing power lays unused, but still costing the firm money.
+
+With AWS, companies pay for what they use. There’s no upfront cost to build a storage system and no need to estimate usage. AWS customers use what they need and their costs are scaled automatically and accordingly.
+
+Scalable and Adaptable
+
+Since AWS’s cost is modified based on the customers’ usage, start-ups and small businesses can see the obvious benefits of using Amazon for their computing needs. In fact, AWS is great for building a business from the bottom as it provides all the tools necessary for companies to start up with the cloud. For existing companies, Amazon provides low-cost migration services so that your existing infrastructure can be seamlessly moved over to AWS.
+
+As a company grows, AWS provides resources to aid in expansion and as the business model allows for flexible usage, customers will never need to spend time thinking about whether or not they need to reexamine their computing usage. In fact, aside from budgetary reasons, companies could realistically “set and forget” all their computing needs. 
+
+Security and Reliability
+
+Arguably, Amazon Web Services is much more secure than a company hosting its own website or storage. AWS currently has dozens of data centers across the globe which are continuously monitored and strictly maintained. The diversification of the data centers ensures that a disaster striking one region doesn’t cause permanent data loss worldwide. Imagine if Netflix were to have all of its personnel files, content, and backed-up data centralized on-site on the eve of a hurricane.
+
+Companies Success Stories :
+No alt text provided for this image
+BankUnited, an American financial services company, embraces cloud computing to provide both consumer and commercial banking services. The company depends on various cloud features, ranging from security tooling to Amazon Machine Images to maintain its agility. However, BankUnited needed flexible pricing to sustain its business model and procurement workflow. The ability to engage with independent software vendors, as well as integration with the bank’s accounts payable system, made AWS Marketplace the perfect solution.
+
+"BankUnited was looking for more flexible pricing and engagement terms than what was offered via the public marketplace. AWS Marketplace private offers provide a more mature procurement workflow and approval process than the point, click, purchase methodology of the public marketplace." – Michael Lehmbeck, Cloud Architecture and Operations Manager, BankUnited
+
+No alt text provided for this image
+
+
+The Under Armour Connected Fitness platform is in high-growth mode, with more people using its suite of fitness apps every day. However, the company struggled to manage that growth while relying on an IT hosting provider. “We wanted to be more dynamic and focus more on our growth instead of optimizing our data center footprint,” says Jesse Demmel, vice president of platform engineering for Under Armour Connected Fitness.
+
+Under Armour also sought the elasticity to support cyclical app usage. For example, the MyFitnessPal nutrition tracking app sees a spike in new users on New Year’s Day. Some of the company’s other apps experience usage spikes in the summer season. And all the apps see more traffic on weekends. “We see at least twice as much app traffic on weekends and early in the workweek,” says Demmel. “Managing and optimizing that cyclical traffic in a data center was challenging in terms of spinning up compute resources quickly.”
+
+The organization also sought more reliability and high availability for the Connected Fitness platform. “We had two data centers, and if there were any problems in our primary data center, we had outages,” says Demmel. “Given the size of our user base, that was not good for our brand. If systems are down, that impacts people who are trying to improve their health and fitness worldwide."
+
+No alt text provided for this image
+SAP is one of the largest enterprise software companies in the world with offices in more than 130 countries. SAP partners closely with Amazon Web Services to allow joint customers to enjoy the benefits and proven results of SAP software along with the elasticity and pay-as-you-go model that comes with AWS.
+
+No alt text provided for this image
+Amway conducted a four-month evaluation of different IoT platforms, ultimately choosing AWS IoT. AWS’s scalability, global presence, maturity in the IoT space, security, and outstanding professional services were the deciding factors for Amway. “They do business in more than 100 countries and territories, and They had no idea how much data-center capacity we would need from an IoT perspective,” says Mike Gartner, senior IoT platform architect at Amway.
+
+No alt text provided for this image
+Netflix uses Amazon Web Services (AWS) for nearly all its computing and storage needs, including databases, analytics, recommendation engines, video transcoding, and more—hundreds of functions that in total use more than 100,000 server instances on AWS.     This results in an extremely complex and dynamic networking environment where applications are constantly communicating inside AWS and across the Internet. Monitoring and optimizing its network is critical for Netflix to continue improving customer experience, increasing efficiency, and reducing costs.
+
+"Amazon Kinesis Data Streams processes multiple terabytes of log data each day, yet events show up in our analytics in seconds. We can discover and respond to issues in real-time, ensuring high availability and great customer experience." - John Bennett, Senior Software Engineer, Netflix.
+
+Slack Case Study
+No alt text provided for this image
+ 
+Slack is a channel based messaging platform. It provides a platform where people can work together more effectively and connect their software and services and collect the information they need.
+
+It is a San Francisco-based company. It was started as a small group of entrepreneurs. The company launched one eponymous app in 2014. This company comes in the Fortune Magazine's “Unicorn List” worth of $1billion and 2.8 billion valuation support with the increment of 5% weekly growth of the customer. Adobe, Samsung, Intuit, NASA, Dow Jones, eBay, and Expedia are using Slack.
+
+Why slack move to the cloud?
+
+
+By July 2015, the company crosses 1.1 Million users, 300,000 paid seats, and exchanges 30 Million messages per week. 
+
+So as a startup, the main focus is to run the service instead of looking over the upfront. So the best choice is Cloud said by Richard Crowley, Director of Operations, Slack.
+
+
+
+Slack uses lots of services of the AWS, these services are 
+2.xlarge aws ec2 for normal computing tasks.
+Amazon simple storage service (Amazon S3) so that they uphold users’ files and status assets.
+ Elastic Load Balancing, so that they can easily manage traffic on their website.
+Amazon Elastic Block Store (Amazon EBS) for the data backup of the My SQL server.
+EBS volumes are attached to the instances and used as the temporary storage before sending the data to the S3.
+Some other services are the Redis data structure server, the Apache Solr search tool, the Squid caching proxy, and a MySQL database.
+MPL(MOBILE PREMIER LEAGUE)
+
+No alt text provided for this image
+
+
+It is India based company and it is one of the fastest and biggest growing players which offers more than 40+ games on its sports platform. Due to the affordable price of data, mobile gaming is a common pastime.
+
+MPL mobile app is launched in September 2018 and make a 10mollion user in just 3 months. Today’s MPL user is 40 million subscribers and the making of the 14% mobile gaming market according to the report of “The Power of Mobile Gaming in India.”
+
+
+
+The startup was launched over the AWS because MPL’s DevOps engineer has more flexibility on AWS. 
+
+It started its business over Amazon Aurora for the primary database using Amazon RDS. When their business grows, they shift to the AmazonDynamoDB NoSQL database services. It gives better gaming experience and low latency. It can handle a variety of data, volume, and velocity and help in the better tackle to heavy data-workload.
+
+
+
+No alt text provided for this image
+
+
+This database has the capability of horizontal scaling when the traffic on the website 2.5 million hits per minute at the time of national sports, IPL, etc.
+
+The MPL team subscribe to AWS Enterprise Support so that they can launch a big campaign.
+
+
